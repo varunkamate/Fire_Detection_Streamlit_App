@@ -33,3 +33,19 @@ The Streamlit frontend loads the YOLO model once and handles live video streamin
 │── requirements.txt    # Python dependencies
 
 │── README.md
+
+pip install -r requirements.txt
+
+python main.py
+
+streamlit run app.py
+
+🎯 Use Cases
+
+Home or warehouse safety monitoring
+
+Early fire-alert systems
+
+Integration into IoT surveillance setups
+
+Research and computer vision practice
