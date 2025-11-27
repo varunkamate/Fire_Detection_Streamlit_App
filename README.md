@@ -19,3 +19,11 @@ Runs entirely on your local machine
 🧠 How it works
 
 The Streamlit frontend loads the YOLO model once and handles live video streaming with OpenCV. Each frame is sent to the model and the annotated output is displayed back in the browser. If class 0 appears in the prediction results, the app marks it as fire and updates the UI instantly.
+
+📂 Project Structure
+📁 fire-detection
+│── app.py              # Streamlit UI for real-time detection
+│── main.py             # Model test script for direct YOLO predictions
+│── best.pt             # Trained fire detection model
+│── requirements.txt    # Python dependencies
+│── README.md
