@@ -23,8 +23,13 @@ The Streamlit frontend loads the YOLO model once and handles live video streamin
 📂 Project Structure
 
 📁 fire-detection
+
 │── app.py              # Streamlit UI for real-time detection
+
 │── main.py             # Model test script for direct YOLO predictions
+
 │── best.pt             # Trained fire detection model
+
 │── requirements.txt    # Python dependencies
+
 │── README.md
