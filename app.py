@@ -58,4 +58,5 @@ if start_button:
             st.success("Detection stopped.")
             break
 
+
         time.sleep(0.03)  
