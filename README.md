@@ -49,3 +49,4 @@ Early fire-alert systems
 Integration into IoT surveillance setups
 
 Research and computer vision practice
+
