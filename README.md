@@ -50,3 +50,4 @@ Integration into IoT surveillance setups
 
 Research and computer vision practice
 
+
